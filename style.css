@@ -90,7 +90,7 @@ header .logo a span{
 
 
 #home{
-    background: linear-gradient(rgba(0,0,0,0.1),#333),url("image/monde.jpg");
+    background: linear-gradient(rgba(0,0,0,0.1),#333),url("monde.jpg");
     background-position: center;
     background-size: cover;
     height: calc(100vh);
@@ -334,7 +334,7 @@ background: linear-gradient(rgba);
 
  
 #sidney-home{
-    background: linear-gradient(rgba(0,0,0,0.1),#333),url("image/sydney-opera.jpg");
+    background: linear-gradient(rgba(0,0,0,0.1),#333),url("sydney-opera.jpg");
     background-position: center;
     background-size: cover;
     height: calc(100vh);
@@ -345,7 +345,7 @@ background: linear-gradient(rgba);
     position: relative;
 }
 #venise-home{
-    background: linear-gradient(rgba(0,0,0,0.1),#333),url("image/Venise\,\ Italie.jpg");
+    background: linear-gradient(rgba(0,0,0,0.1),#333),url("Venise\,\ Italie.jpg");
     background-position: center;
     background-size: cover;
     height: calc(100vh);
@@ -356,7 +356,7 @@ background: linear-gradient(rgba);
     position: relative;
 }
 #rio-home{
-    background: linear-gradient(rgba(0,0,0,0.1),#333),url("image/Rio\ de\ Janeiro\,\ Brésil.jpg");
+    background: linear-gradient(rgba(0,0,0,0.1),#333),url("Rio\ de\ Janeiro\,\ Brésil.jpg");
     background-position: center;
     background-size: cover;
     height: calc(100vh);
@@ -367,7 +367,7 @@ background: linear-gradient(rgba);
     position: relative;
 }
 #paris-home{
-    background: linear-gradient(rgba(0,0,0,0.1),#333),url("image/Paris\,\ France.jpg");
+    background: linear-gradient(rgba(0,0,0,0.1),#333),url("Paris\,\ France.jpg");
     background-position: center;
     background-size: cover;
     height: calc(100vh);
@@ -378,7 +378,7 @@ background: linear-gradient(rgba);
     position: relative;
 }
 #cancun-home{
-    background: linear-gradient(rgba(0,0,0,0.1),#333),url("image/Cancun\,\ Mexique.jpg");
+    background: linear-gradient(rgba(0,0,0,0.1),#333),url("Cancun\,\ Mexique.jpg");
     background-position: center;
     background-size: cover;
     height: calc(100vh);
@@ -389,7 +389,7 @@ background: linear-gradient(rgba);
     position: relative;
 }
 #bangkok-home{
-    background: linear-gradient(rgba(0,0,0,0.1),#333),url("image/Bangkok\,\ Thaïlande.jpg");
+    background: linear-gradient(rgba(0,0,0,0.1),#333),url("Bangkok\,\ Thaïlande.jpg");
     background-position: center;
     background-size: cover;
     height: calc(100vh);
@@ -475,20 +475,6 @@ form .pied-formulaire button{
 form .pied-formulaire button:hover{
     transform: scale(1.05);
 }
-  
-    
-  
-      
-
-
-
-
-
-
-
-
-
-
 #monde{
     display: flex;
     width: 100%;
